@@ -45,7 +45,7 @@ also eliminates single-cloud dependency risk.
 
 The architecture diagram below illustrates how Capitec's systems would operate on OCI.
 
-![Capitec OCI Architecture](capitec-oci-architecture.png)
+![Capitec OCI Architecture](capitec-oci-architecture.svg)
 
 ### Architecture Components
 
